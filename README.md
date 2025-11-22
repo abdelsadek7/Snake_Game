@@ -1,66 +1,45 @@
 # Snake_Game
 Simple Snake Game (HTML/CSS/JS)
 
-A lightweight Snake game built with HTML, CSS, and JavaScript. The goal is simple: control your snake, eat the squares (food), and grow longer.
+A lightweight Snake game built with **HTML**, **CSS**, and **JavaScript**.  
+You control the snake, eat the food squares, and grow longer.  
+If you hit a wall or your own body, the game ends.
 
-How It Works
+## How It Works
+- Use your keyboard arrows or WASD to move.
+- Eating a food square increases the snake length.
+- Hitting walls or yourself triggers game over.
+- The game runs fully in the browser with simple logic.
 
-You control the snake using your keyboard.
+## Features
+- Clean and simple UI.
+- Smooth movement.
+- Classic Snake mechanics.
+- Beginner-friendly code.
 
-When the snake eats a food square, it grows in length.
+## Why This Project Matters
+This project improves your skills in:
+- DOM manipulation
+- Keyboard event handling
+- Game loops and timing
+- Grid-based movement logic
 
-If the snake hits a wall or crashes into its own body, the game ends.
+## How to Run
+1. Download all files.
+2. Make sure `index.html`, `style.css`, and `script.js` are in the same folder.
+3. Open `index.html` in any browser.
+4. Start playing instantly.
 
-Everything runs in the browser with no libraries required.
+## File Structure
+- **index.html** — game layout  
+- **style.css** — game UI styling  
+- **script.js** — movement, food, logic  
 
-Features
+## Future Improvements
+- Add scoring system UI
+- Add difficulty levels  
+- Add sound effects  
+- Add mobile touch controls  
 
-Clean and simple design.
-
-Smooth movement and responsive controls.
-
-Classic Snake mechanics.
-
-Fully beginner‑friendly codebase.
-
-Why This Project Matters
-
-This project helps you build confidence with:
-
-DOM manipulation
-
-Basic game loops
-
-Keyboard event handling
-
-Grid‑based movement logic
-
-How to Run
-
-Download the project files.
-
-Open index.html in any browser.
-
-Play instantly.
-
-File Structure
-
-index.html – game layout
-
-style.css – UI styling
-
-script.js – game logic and controls
-
-Future Improvements
-
-Add score tracking
-
-Add increasing difficulty
-
-Add sound effects
-
-Add mobile touch controls
-
-License
-
-Free to use, modify, and learn from.
+## License
+Free to use and modify.
