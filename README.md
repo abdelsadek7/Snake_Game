@@ -29,6 +29,7 @@ This project improves your skills in:
 2. Make sure `index.html`, `style.css`, and `script.js` are in the same folder.
 3. Open `index.html` in any browser.
 4. Start playing instantly.
+5. You can play Now ! (https://snake-game-lime-omega.vercel.app/)
 
 ## File Structure
 - **index.html** — game layout  
