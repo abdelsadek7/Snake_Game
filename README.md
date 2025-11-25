@@ -6,7 +6,7 @@ You control the snake, eat the food squares, and grow longer.
 If you hit a wall or your own body, the game ends.
 
 ## How It Works
-- Use your keyboard arrows or WASD to move.
+- Use your keyboard arrows to move.
 - Eating a food square increases the snake length.
 - Hitting walls or yourself triggers game over.
 - The game runs fully in the browser with simple logic.
